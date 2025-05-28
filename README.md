@@ -1,2 +1,0 @@
-# eksperimen
-Jurnal Belajar

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Casual Talks</title>
+    <link href="https://dnsag.github.io/eksperimen/feed.xml" rel="self" />
+    <link href="https://dnsag.github.io/eksperimen" />
+    <updated>2025-05-28T10:10:58+07:00</updated>
+    <author>
+        <name>DNSAG</name>
+    </author>
+    <id>https://dnsag.github.io/eksperimen</id>
+
+    <entry>
+        <title>Bingung Mencari Pekerjaan</title>
+        <author>
+            <name>DNSAG</name>
+        </author>
+        <link href="https://dnsag.github.io/eksperimen/rabu-250528.html"/>
+        <id>https://dnsag.github.io/eksperimen/rabu-250528.html</id>
+
+        <updated>2025-05-28T06:51:40+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Iseng menggunakan Publii untuk membuat dan menulis jurnal harian mengenai perasaan yang dirasakan saat ini. Sesuai dengan judul, saat ini sedang bingung mencari pekerjaan karena tidak ada keinginan dan kebingungan ingin melamar pekerjaan seperti apa. Jadi sepertinya postingan hari ini tidak akan memberikan manfaat apa-apa&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p id="bingung-mencari-pekerjaanandnbspandnbsp">
+    Iseng menggunakan Publii untuk membuat dan menulis jurnal harian mengenai perasaan yang dirasakan saat ini. Sesuai dengan judul, saat ini sedang bingung mencari pekerjaan karena tidak ada keinginan dan kebingungan ingin melamar pekerjaan seperti apa. Jadi sepertinya postingan hari ini tidak akan memberikan manfaat apa-apa karena hanya meracau.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
