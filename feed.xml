@@ -3,12 +3,33 @@
     <title>Casual Talks</title>
     <link href="https://dnsag.github.io/eksperimen/feed.xml" rel="self" />
     <link href="https://dnsag.github.io/eksperimen" />
-    <updated>2025-06-16T17:25:10+07:00</updated>
+    <updated>2025-06-18T13:48:07+07:00</updated>
     <author>
         <name>DNSAG</name>
     </author>
     <id>https://dnsag.github.io/eksperimen</id>
 
+    <entry>
+        <title>Keisengan Hari Ini</title>
+        <author>
+            <name>DNSAG</name>
+        </author>
+        <link href="https://dnsag.github.io/eksperimen/keisengan-hari-ini.html"/>
+        <id>https://dnsag.github.io/eksperimen/keisengan-hari-ini.html</id>
+
+        <updated>2025-06-18T12:23:58+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Hari ini diawali dengan hujan lebat yang dimulai dari kemarin sore. Kemungkinan besar gara-gara ada badai tropis Erick di Samudra Pasifik (bisa juga disebut Lautan Teduh). Gara-gara "bosan", akhirnya saya melakukan peningkatan versi Windows yang ada di laptop lawas dari Windows 10 21H2 IoT Enterprise&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hari ini diawali dengan hujan lebat yang dimulai dari kemarin sore. Kemungkinan besar gara-gara ada badai tropis Erick di Samudra Pasifik (bisa juga disebut <strong>Lautan Teduh</strong>). Gara-gara "bosan", akhirnya saya melakukan peningkatan versi Windows yang ada di laptop lawas dari Windows 10 21H2 IoT Enterprise LTSC ke Windows 11 24H2 IoT Enterprise LTSC dengan pengaturan khusus di mana semua pengaturan dan aplikasi yang terinstal dipertahankan. Sampai dengan saat ini, sepertinya masih belum ada gangguan, tapi secara pribadi saya kurang suka dengan tampilan <em>taskbar</em> Windows 11. Jadinya saya menginstal program StartAllBack agar bisa mendapatkan tampilan taskbar terlihat seperti taskbar versi Windows 10.  </p>
+<p>Suasana hati saat ini sepertinya "datar", tapi masih ada banyak hal yang perlu dikerjakan. Namun, keinginan untuk makan jadi tidak terkendali gara-gara cuaca.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lelah akan Kegiatan Gereja</title>
         <author>
